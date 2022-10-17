@@ -5,4 +5,3 @@
 • 🌱 I’m currently learning the basics of React & NodeJS <br>
 • 📫 How to reach me: -> touitou.rudy@gmail.com </p> 
 </div>
-<h3 style="text-align:center">Becoming a NetRunner soon ✨</h3>
